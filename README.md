@@ -5,7 +5,7 @@ VisionSurf is an Android eye-controlled screen interaction utility tool for peop
 
 ---
 
-# Defunct Notice
+## Defunct Notice
 
 As the eye-tracking engine SeeSo SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. 
 
