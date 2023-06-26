@@ -8,8 +8,11 @@ https://github.com/thang-h/visionsurf/assets/69886068/2cf3be1f-afa8-4f4d-8e0f-c7
 
 # Defunct Notice
 
-As SeeSo eye-tracking engine SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. Future development of this app will not be continued, unless an alternative to the eye-tracking engine is established.
+As SeeSo eye-tracking engine SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. 
+
 **Due to SeeSo SDK licensing limitation, the source code is not allowed for distribution under VisualCamp's Terms of services (unless I subscribe for a commercial license), which is why the source code will remain private.**
+
+Future development of this app will not be continued unless an alternative to the eye-tracking engine is established.
 
 # Diagrams
 
