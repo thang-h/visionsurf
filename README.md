@@ -1,3 +1,16 @@
+
+---
+
+# Defunct Notice
+
+As the eye-tracking engine SeeSo SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. 
+
+***Due to SeeSo SDK licensing limitation, the source code is not allowed for distribution under VisualCamp's Terms of services (unless I subscribe for a commercial license), which is why the source code will remain private.***
+
+Future development of this app will not be continued unless an alternative to the eye-tracking engine is established.
+
+---
+
 # VisionSurf Project Description
 
 VisionSurf is an Android eye-controlled screen interaction utility tool for people with mobility-related injuries as well as casual smartphone users. The current demonstration shows an eye-controlled dot interacting with two established boxes to scroll the screen. This is my 2023 Capstone Project for Fairleigh Dickinson University.
@@ -6,23 +19,15 @@ VisionSurf is an Android eye-controlled screen interaction utility tool for peop
 
 https://github.com/thang-h/visionsurf/assets/69886068/2cf3be1f-afa8-4f4d-8e0f-c7b5c1bfda51
 
-# Defunct Notice
-
-As SeeSo eye-tracking engine SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. 
-
-**Due to SeeSo SDK licensing limitation, the source code is not allowed for distribution under VisualCamp's Terms of services (unless I subscribe for a commercial license), which is why the source code will remain private.**
-
-Future development of this app will not be continued unless an alternative to the eye-tracking engine is established.
-
 # Diagrams
 
 Current VisionSurf demo's architecture diagram:
 
-![CapProjectDiagram2 drawio](https://github.com/thang-h/visionsurf/assets/69886068/b3a84154-9e91-4253-9f95-a354a3bd0a47)
+![Capstone Project Diagram](https://github.com/thang-h/visionsurf/assets/69886068/b3a84154-9e91-4253-9f95-a354a3bd0a47)
 
 Detailed architecture diagram:
 
-![Capstone drawio](https://github.com/thang-h/visionsurf/assets/69886068/a43a6353-f57c-48f1-9660-c001d3bbcb71)
+![Capstone Project Diagram 2](https://github.com/thang-h/visionsurf/assets/69886068/a43a6353-f57c-48f1-9660-c001d3bbcb71)
 
 # Credit
 
