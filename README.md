@@ -9,7 +9,7 @@ VisionSurf is an Android eye-controlled screen interaction utility tool for peop
 
 As the eye-tracking engine SeeSo SDK now requires a paid subscription, which I cannot afford, this app will not function beyond May 2023. 
 
-Due to SeeSo SDK licensing limitation, the source code is not allowed for distribution under VisualCamp's Terms of Services (unless I subscribe to a commercial license), which is why ***the source code will remain private.***
+***Due to SeeSo SDK licensing limitation, the source code is not allowed for distribution under VisualCamp's Terms of Services without a commercial license, which is why the source code will remain private.***
 
 Future development of this app will not be continued unless an alternative to the eye-tracking engine is established.
 
