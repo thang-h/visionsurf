@@ -1,7 +1,7 @@
 
 # VisionSurf Project Description
 
-VisionSurf is an Android eye-controlled screen interaction utility tool for people with mobility-related injuries as well as casual smartphone users. The current demonstration shows an eye-controlled dot interacting with two established boxes to scroll the screen. This is my 2023 Capstone Project for Fairleigh Dickinson University.
+VisionSurf is an Android eye-controlled screen interaction utility tool for people with mobility-related injuries as well as casual smartphone users. The current concept demonstration shows an eye-controlled dot interacting with two established boxes to scroll the screen. This is my 2023 Capstone Project for Fairleigh Dickinson University.
 
 ---
 
